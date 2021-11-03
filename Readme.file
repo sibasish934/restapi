@@ -1,0 +1,5 @@
+This is restful api of the students which gives information about their name , email, phone,and address in form of json document and all the data of the students are stored in the mongodb database.
+To add the link :- localhost:80/student-post request
+TO get details of the student stored in the database:- localhost:80/student - get request
+To update the students details :- localhost:80/student/id(value) - patch request
+To delete the student details :- localhost:80/student/id(value)-delete request
